@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+}
+.pbeam{
+    text-align: center;
+}
+.bii{
+    width: 60%;
+      margin: 0 auto;
+      border: 1px solid #ffffff;
+      padding: 25px;
+}
+.arai{
+    text-align: left;
+}
+.sl{
+    background-image: url('./photo/main.jpg'); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 200px 0;
+    color: rgb(255, 255, 255);
+}
+ .nb{
+    background-image: url('./photo/nb.jpg'); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 200px 0;
+    color: rgb(255, 255, 255);
+}
+.mn{
+    background-image: url('./photo/name.jpg'); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 200px 0;
+    color: rgb(255, 255, 255);
+}
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}header {
+    background-color: #629147;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    background: #000;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
